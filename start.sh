@@ -1,0 +1,1 @@
+java --illegal-access=permit -Dfile.encoding=utf-8  -javaagent:/Users/purwowd/Developments/personal/pentest/burpsuite/loader.jar -noverify -jar /Users/purwowd/Developments/personal/pentest/burpsuite/burpsuite.jar > /dev/null 2>&1
