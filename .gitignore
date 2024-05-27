@@ -1,1 +1,2 @@
-burpsuite.jar
+*.jar
+*.zip
